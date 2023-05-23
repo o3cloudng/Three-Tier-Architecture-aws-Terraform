@@ -131,7 +131,7 @@ variable "asg_image_id" {
 variable "asg_instance_type" {
   description = "Auto scaling group instance type"
   type        = string
-  default     = "t3.micro"
+  default     = "t2.micro"
 }
 
 variable "asg_ebs_optimized" {

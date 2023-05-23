@@ -1,4 +1,4 @@
-# Generic variables
+# Generic variables for Production environment
 region = "us-east-1"
 
 # VPC variables
